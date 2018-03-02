@@ -5,9 +5,9 @@
 ::
 :: Feel free to use newer wheels of your own if you like.
 
-SET NUMPY_WHEEL=https://pypi.python.org/packages/3b/98/e5594863d96cf79bb89bb4f49191403136c08b8353c3e3ebcb17cc6554e3/numpy-1.14.1-cp27-none-win_amd64.whl
-SET SCIPY_WHEEL=https://pypi.python.org/packages/c4/c3/6e9269467fb1e69f094b3a404caf3e672cc31d7f557c8214342ed17d9b5b/scipy-1.0.0-cp27-none-win_amd64.whl#md5=495f131550a2845945e5228ff0eb4cf2
-SET CNTK_WHEEL=https://cntk.ai/PythonWheel/CPU-Only/cntk-2.3.1-cp34-cp34m-win_amd64.whl
+SET NUMPY_WHEEL=https://mawahstorage.blob.core.windows.net/cntkwebapp/wheels/numpy-1.13.1mkl-cp35-cp35m-win_amd64.whl
+SET SCIPY_WHEEL=https://mawahstorage.blob.core.windows.net/cntkwebapp/wheels/scipy-0.19.1-cp35-cp35m-win_amd64.whl
+SET CNTK_WHEEL=https://mawahstorage.blob.core.windows.net/cntkwebapp/wheels/cntk-2.0-cp35-cp35m-win_amd64.whl
 
 :: ----------------------
 :: KUDU Deployment Script
